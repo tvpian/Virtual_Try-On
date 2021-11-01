@@ -5,7 +5,8 @@ An advanced AI solution to bring down trial room drops and to provide the custom
 
 ![IQA4](https://user-images.githubusercontent.com/41953267/139610574-2c3c5181-99cc-4ef5-b252-5416b3b51fac.png)
 ![Screenshot (503)](https://user-images.githubusercontent.com/41953267/139062425-c2b6874e-f734-4c57-85ec-adaea322dba9.png)
-![IQA5](https://user-images.githubusercontent.com/41953267/139610706-af3335e6-e600-497f-94ff-cde3f15b772![IQA2](https://user-images.githubusercontent.com/41953267/139611302-2e9146c9-678e-4330-9b2c-c8d7a77341be.png)
+![IQA5](https://user-images.githubusercontent.com/41953267/139610706-af3335e6-e600-497f-94ff-cde3f15b772
+![IQA2](https://user-images.githubusercontent.com/41953267/139611302-2e9146c9-678e-4330-9b2c-c8d7a77341be.png)
 ![IQA](https://user-images.githubusercontent.com/41953267/139611305-0f7a1eda-e617-4132-ab46-29e3f76cab69.png)
 0.png)
 
